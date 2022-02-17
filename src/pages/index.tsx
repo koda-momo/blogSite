@@ -5,7 +5,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Layout title="Home">
-        <p className="text-4xl font-bold underline">Hello world!</p>
+        <p className="text-4xl font-bold underline">ようこそ</p>
       </Layout>
     </>
   );
